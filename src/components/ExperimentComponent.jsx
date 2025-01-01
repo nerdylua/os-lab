@@ -25,7 +25,7 @@ const ExperimentComponent = ({ darkMode }) => {
             darkMode ? "text-white" : "text-black"
           } py-4`}
         >
-          Operating System Lab Experiments
+          DSA Lab Experiments
         </h5>
         <p className={`${darkMode ? "text-white" : "text-black"} mb-4`}>
           Select the experiment to display:
